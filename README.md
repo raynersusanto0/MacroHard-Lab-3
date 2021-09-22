@@ -1,4 +1,13 @@
+<<<<<<< HEAD
+
+Project Team Members: Biswas Gauli
 # MacroHard-Lab-3
-Hello Guys
-Project Members:
+=======
+<<<<<<< HEAD
+
+Project Team Members: Biswas Gauli
 Rayner Aurell Susanto
+# MacroHard-Lab-3
+=======
+>>>>>>> main
+>>>>>>> main
